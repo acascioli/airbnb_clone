@@ -14,7 +14,7 @@ import useLoginModal from "@/app/hooks/useLoginModal";
 import Modal from "./Modal";
 import Input from "../inputs/Input";
 import Heading from "../Heading";
-import Button from "@/app/Button";
+import Button from "@/app/components/Button";
 
 const LoginModal = () => {
   const router = useRouter();

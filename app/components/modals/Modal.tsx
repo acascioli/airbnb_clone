@@ -1,6 +1,6 @@
 "use client";
 
-import Button from "@/app/Button";
+import Button from "@/app/components/Button";
 import { useCallback, useEffect, useState } from "react";
 import { IoMdClose } from "react-icons/io";
 
